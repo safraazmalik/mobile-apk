@@ -1,1 +1,5 @@
 print("i love python programing")
+print("i love python programing")
+print("i have installed git")
+print("i have learnt about git")
+print("i know how to use git")
